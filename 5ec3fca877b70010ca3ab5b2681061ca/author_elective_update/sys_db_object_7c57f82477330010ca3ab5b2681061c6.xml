@@ -51,13 +51,13 @@
         <source>f36b5f0344230010e83976970055570f</source>
         <source_table>sys_upgrade_history</source_table>
         <state>previous</state>
-        <sys_created_by/>
+        <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-19 10:18:43</sys_created_on>
         <sys_id>087a306077330010ca3ab5b26810614e</sys_id>
-        <sys_mod_count/>
+        <sys_mod_count>0</sys_mod_count>
         <sys_recorded_at>170f24d63b80000000</sys_recorded_at>
-        <sys_updated_by/>
-        <sys_updated_on/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-23 14:33:37</sys_updated_on>
         <type>Table</type>
         <update_guid>c47a3060f6330010e36938cbae4fc44e</update_guid>
         <update_guid_history>c47a3060f6330010e36938cbae4fc44e:1010949890</update_guid_history>
