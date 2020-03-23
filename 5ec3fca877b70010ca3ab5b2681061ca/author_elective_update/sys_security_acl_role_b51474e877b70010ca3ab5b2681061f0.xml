@@ -60,7 +60,7 @@
         <update_guid_history>49573c24cc330010d8b18b1e39ddf694:0,9f173824963300106a67824f877104cc:-1276459818,0c54bca01e330010f01e2c93af5e7a3f:-1613417617</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="">3c0c30a077330010ca3ab5b2681061c0</sys_audit_delete>
+        <sys_audit_delete display_value="sn_scopea_table1.sn_scopea.table1_user">3c0c30a077330010ca3ab5b2681061c0</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-23 14:33:04</sys_created_on>
