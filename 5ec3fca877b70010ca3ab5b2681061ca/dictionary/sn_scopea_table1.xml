@@ -2,6 +2,5 @@
     <element label="Table1" max_length="40" name="sn_scopea_table1" type="collection">
         <element label="Cars" max_length="40" name="cars" type="string"/>
         <element label="Color" max_length="40" name="color" type="string"/>
-        <element label="Stuff" max_length="40" name="stuff" type="string"/>
     </element>
 </database>
