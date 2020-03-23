@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Table2" max_length="40" name="sn_scopea_table2" type="collection">
-        <element label="A1" max_length="40" name="a1" type="string"/>
-        <element label="A2" max_length="40" name="a2" type="string"/>
-    </element>
-</database>
