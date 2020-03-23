@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="DELETE" element="stuff" table="sn_scopea_table1">
+    <sys_dictionary action="DELETE" element="" table="sn_scopea_table1">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Stuff</column_label>
+        <column_label/>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,12 +27,12 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>stuff</element>
+        <element/>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>sn_scopea_table1</name>
@@ -52,14 +52,14 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-03-23 13:58:27</sys_created_on>
-        <sys_id>2a75742c77b70010ca3ab5b26810611f</sys_id>
+        <sys_created_on>2020-03-23 13:58:28</sys_created_on>
+        <sys_id>ee75742c77b70010ca3ab5b268106115</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Stuff</sys_name>
+        <sys_name>sn_scopea_table1</sys_name>
         <sys_package display_value="scopea" source="sn_scopea">5ec3fca877b70010ca3ab5b2681061ca</sys_package>
         <sys_policy/>
         <sys_scope display_value="scopea">5ec3fca877b70010ca3ab5b2681061ca</sys_scope>
-        <sys_update_name>sys_dictionary_sn_scopea_table1_stuff</sys_update_name>
+        <sys_update_name>sys_dictionary_sn_scopea_table1_NULL</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-23 14:04:33</sys_updated_on>
         <table_reference>false</table_reference>
@@ -79,9 +79,9 @@
         <file_path/>
         <instance_id>evosandbox8082</instance_id>
         <instance_name>glide_db_dump</instance_name>
-        <name>sys_dictionary_sn_scopea_table1_stuff</name>
+        <name>sys_dictionary_sn_scopea_table1_null</name>
         <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;
-    &lt;sys_dictionary action="INSERT_OR_UPDATE" element="stuff" table="sn_scopea_table1"&gt;
+    &lt;sys_dictionary action="INSERT_OR_UPDATE" element="" table="sn_scopea_table1"&gt;
         &lt;active&gt;true&lt;/active&gt;
         &lt;array&gt;false&lt;/array&gt;
         &lt;array_denormalized&gt;false&lt;/array_denormalized&gt;
@@ -96,7 +96,7 @@
         &lt;choice/&gt;
         &lt;choice_field/&gt;
         &lt;choice_table/&gt;
-        &lt;column_label&gt;Stuff&lt;/column_label&gt;
+        &lt;column_label/&gt;
         &lt;comments/&gt;
         &lt;create_roles/&gt;
         &lt;default_value/&gt;
@@ -109,12 +109,12 @@
         &lt;dynamic_creation_script/&gt;
         &lt;dynamic_default_value/&gt;
         &lt;dynamic_ref_qual/&gt;
-        &lt;element&gt;stuff&lt;/element&gt;
+        &lt;element/&gt;
         &lt;element_reference&gt;false&lt;/element_reference&gt;
         &lt;foreign_database/&gt;
         &lt;function_definition/&gt;
         &lt;function_field&gt;false&lt;/function_field&gt;
-        &lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;
+        &lt;internal_type display_value="Collection"&gt;collection&lt;/internal_type&gt;
         &lt;mandatory&gt;false&lt;/mandatory&gt;
         &lt;max_length&gt;40&lt;/max_length&gt;
         &lt;name&gt;sn_scopea_table1&lt;/name&gt;
@@ -134,14 +134,14 @@
         &lt;staged&gt;false&lt;/staged&gt;
         &lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
-        &lt;sys_created_on&gt;2020-03-23 13:58:27&lt;/sys_created_on&gt;
-        &lt;sys_id&gt;2a75742c77b70010ca3ab5b26810611f&lt;/sys_id&gt;
+        &lt;sys_created_on&gt;2020-03-23 13:58:28&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;ee75742c77b70010ca3ab5b268106115&lt;/sys_id&gt;
         &lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;
-        &lt;sys_name&gt;Stuff&lt;/sys_name&gt;
+        &lt;sys_name&gt;sn_scopea_table1&lt;/sys_name&gt;
         &lt;sys_package display_value="scopea" source="sn_scopea"&gt;5ec3fca877b70010ca3ab5b2681061ca&lt;/sys_package&gt;
         &lt;sys_policy/&gt;
         &lt;sys_scope display_value="scopea"&gt;5ec3fca877b70010ca3ab5b2681061ca&lt;/sys_scope&gt;
-        &lt;sys_update_name&gt;sys_dictionary_sn_scopea_table1_stuff&lt;/sys_update_name&gt;
+        &lt;sys_update_name&gt;sys_dictionary_sn_scopea_table1_NULL&lt;/sys_update_name&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
         &lt;sys_updated_on&gt;2020-03-23 14:04:33&lt;/sys_updated_on&gt;
         &lt;table_reference&gt;false&lt;/table_reference&gt;
@@ -156,41 +156,41 @@
         &lt;xml_view&gt;false&lt;/xml_view&gt;
     &lt;/sys_dictionary&gt;
 &lt;/record_update&gt;</payload>
-        <payload_hash>-656311045</payload_hash>
-        <record_name>Table1.Stuff</record_name>
+        <payload_hash>1437658305</payload_hash>
+        <record_name>Table1</record_name>
         <reverted_from/>
         <source>a857f82477330010ca3ab5b2681061bf</source>
         <source_table>sys_upgrade_history</source_table>
         <state>previous</state>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-23 14:12:36</sys_created_on>
-        <sys_id>05573c2477330010ca3ab5b26810616e</sys_id>
+        <sys_id>4d573c2477330010ca3ab5b26810615a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_recorded_at>17107bcf6d30000001</sys_recorded_at>
+        <sys_recorded_at>17107bcf6610000001</sys_recorded_at>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-03-23 14:12:36</sys_updated_on>
         <type>Dictionary</type>
-        <update_guid>81573c24aa330010fa0c66cbb9c9bf6e</update_guid>
-        <update_guid_history>81573c24aa330010fa0c66cbb9c9bf6e:0,3f177824873300101c63c8c8f491dc4c:2012634239,fb44bca066330010af4bdde6d5a49120:0,b744bca03a330010c135a597c4a7081b:1464613093</update_guid_history>
+        <update_guid>c9573c2405330010621b12555ef7795a</update_guid>
+        <update_guid_history>c9573c2405330010621b12555ef7795a:0,231778247433001023ce6b85648ad035:1684829239,bf44bca0653300106319de0257b40818:0,7b44bca0633300101e90bff68e8ae213:672600484</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
         <sys_audit_delete/>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-03-23 14:27:53</sys_created_on>
+        <sys_created_on>2020-03-23 14:33:06</sys_created_on>
         <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
-        <sys_id>4bf2a0f26cc4404ba14a1ca0bbfe8709</sys_id>
-        <sys_metadata>3c57f82477330010ca3ab5b2681061f9</sys_metadata>
+        <sys_id>5c57ec47bc9544de8560a4d57d8eba04</sys_id>
+        <sys_metadata>f057f82477330010ca3ab5b2681061f0</sys_metadata>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Stuff</sys_name>
+        <sys_name>sn_scopea_table1</sys_name>
         <sys_package display_value="scopea" source="sn_scopea">5ec3fca877b70010ca3ab5b2681061ca</sys_package>
         <sys_parent display_value="">7c57f82477330010ca3ab5b2681061c6</sys_parent>
         <sys_policy/>
         <sys_scope display_value="scopea">5ec3fca877b70010ca3ab5b2681061ca</sys_scope>
         <sys_scope_delete display_value="">5da71a71453d4c7e85abe4c06c2ea3d1</sys_scope_delete>
-        <sys_update_name>sys_dictionary_sn_scopea_table1_stuff</sys_update_name>
-        <sys_update_version display_value="sys_dictionary_sn_scopea_table1_stuff">05573c2477330010ca3ab5b26810616e</sys_update_version>
+        <sys_update_name>sys_dictionary_sn_scopea_table1_NULL</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_sn_scopea_table1_null">4d573c2477330010ca3ab5b26810615a</sys_update_version>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-23 14:27:53</sys_updated_on>
+        <sys_updated_on>2020-03-23 14:33:06</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

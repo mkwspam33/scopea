@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on sn_scopea_table1</description>
+        <name>sn_scopea_table1</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-23 13:58:28</sys_created_on>
+        <sys_id>f51474e877b70010ca3ab5b2681061ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_scopea_table1</sys_name>
+        <sys_package display_value="scopea" source="sn_scopea">5ec3fca877b70010ca3ab5b2681061ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="scopea">5ec3fca877b70010ca3ab5b2681061ca</sys_scope>
+        <sys_update_name>sys_security_acl_f51474e877b70010ca3ab5b2681061ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-23 13:58:28</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="scopea">5ec3fca877b70010ca3ab5b2681061ca</application>
+        <file_path/>
+        <instance_id>evosandbox8082</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_security_acl_f51474e877b70010ca3ab5b2681061ec</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on sn_scopea_table1</description>
+        <name>sn_scopea_table1</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-23 13:58:28</sys_created_on>
+        <sys_id>f51474e877b70010ca3ab5b2681061ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_scopea_table1</sys_name>
+        <sys_package display_value="scopea" source="sn_scopea">5ec3fca877b70010ca3ab5b2681061ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="scopea">5ec3fca877b70010ca3ab5b2681061ca</sys_scope>
+        <sys_update_name>sys_security_acl_f51474e877b70010ca3ab5b2681061ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-23 13:58:28</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>]]></payload>
+        <payload_hash>128900717</payload_hash>
+        <record_name>sn_scopea_table1</record_name>
+        <reverted_from/>
+        <source>a857f82477330010ca3ab5b2681061bf</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-23 14:12:36</sys_created_on>
+        <sys_id>c9573c2477330010ca3ab5b268106188</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17107bcf7b30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-23 14:12:36</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>49573c2425330010ce635a35f6166888</update_guid>
+        <update_guid_history>49573c2425330010ce635a35f6166888:0,9b1738241e33001054190c826bb58cd0:248129023,0854bca0cd330010620020581964b433:128900717</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-23 14:33:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>b642a732a6c64937a2c127c4e647cb19</sys_id>
+        <sys_metadata>f51474e877b70010ca3ab5b2681061ec</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_scopea_table1</sys_name>
+        <sys_package display_value="scopea" source="sn_scopea">5ec3fca877b70010ca3ab5b2681061ca</sys_package>
+        <sys_parent display_value="">f057f82477330010ca3ab5b2681061f0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="scopea">5ec3fca877b70010ca3ab5b2681061ca</sys_scope>
+        <sys_scope_delete display_value="">5da71a71453d4c7e85abe4c06c2ea3d1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_f51474e877b70010ca3ab5b2681061ec</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_f51474e877b70010ca3ab5b2681061ec">c9573c2477330010ca3ab5b268106188</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-23 14:33:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
