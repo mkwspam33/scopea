@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-23 14:50:30</sys_created_on>
+        <sys_id>08008d2477330010ca3ab5b268106135</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_scopea_table4.sn_scopea.table4_user</sys_name>
+        <sys_package display_value="scopea" source="sn_scopea">5ec3fca877b70010ca3ab5b2681061ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="scopea">5ec3fca877b70010ca3ab5b2681061ca</sys_scope>
+        <sys_security_acl display_value="sn_scopea_table4">04008d2477330010ca3ab5b268106131</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_08008d2477330010ca3ab5b268106135</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-23 14:50:30</sys_updated_on>
+        <sys_user_role display_value="sn_scopea.table4_user" name="sn_scopea.table4_user">c0004d2477330010ca3ab5b2681061a9</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="scopea">5ec3fca877b70010ca3ab5b2681061ca</application>
+        <file_path/>
+        <instance_id>evosandbox8082</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_security_acl_role_08008d2477330010ca3ab5b268106135</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-23 14:50:30</sys_created_on>
+        <sys_id>08008d2477330010ca3ab5b268106135</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_scopea_table4.sn_scopea.table4_user</sys_name>
+        <sys_package display_value="scopea" source="sn_scopea">5ec3fca877b70010ca3ab5b2681061ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="scopea">5ec3fca877b70010ca3ab5b2681061ca</sys_scope>
+        <sys_security_acl display_value="sn_scopea_table4">04008d2477330010ca3ab5b268106131</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_08008d2477330010ca3ab5b268106135</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-23 14:50:30</sys_updated_on>
+        <sys_user_role display_value="sn_scopea.table4_user" name="sn_scopea.table4_user">c0004d2477330010ca3ab5b2681061a9</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>]]></payload>
+        <payload_hash>1539980890</payload_hash>
+        <record_name>sn_scopea_table4.sn_scopea.table4_user</record_name>
+        <reverted_from/>
+        <source>bf004d2477330010ca3ab5b26810616f</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-23 14:50:48</sys_created_on>
+        <sys_id>a0108d2477330010ca3ab5b268106141</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17107dfee5b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-23 14:50:48</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>60108d24913300108c614fa3b32ca741</update_guid>
+        <update_guid_history>60108d24913300108c614fa3b32ca741:1539980890</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="sn_scopea_table4.sn_scopea.table4_user">d330816477330010ca3ab5b2681061bb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-23 14:51:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>1d48715fa35940e7a3ed2b3651f33e01</sys_id>
+        <sys_metadata>08008d2477330010ca3ab5b268106135</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_scopea_table4.sn_scopea.table4_user</sys_name>
+        <sys_package display_value="scopea" source="sn_scopea">5ec3fca877b70010ca3ab5b2681061ca</sys_package>
+        <sys_parent display_value="">04008d2477330010ca3ab5b268106131</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="scopea">5ec3fca877b70010ca3ab5b2681061ca</sys_scope>
+        <sys_scope_delete display_value="">5da71a71453d4c7e85abe4c06c2ea3d1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_08008d2477330010ca3ab5b268106135</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_08008d2477330010ca3ab5b268106135">a0108d2477330010ca3ab5b268106141</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-23 14:51:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
